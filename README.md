@@ -105,5 +105,5 @@ Aspiring Data Scientist | AI/ML Engineer | Data Analyst
 
 **GitHub Username:** @RakshithaThogaru
 
-**GitHub Profile:** https://github.com/RakshithaThogaru
+**GitHub Profile:** https://github.com/RakshithaThogaru.
 
